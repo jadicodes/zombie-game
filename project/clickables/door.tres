@@ -1,0 +1,7 @@
+[gd_resource type="Resource" script_class="Clickable" load_steps=2 format=3 uid="uid://d1sx6v3666beq"]
+
+[ext_resource type="Script" uid="uid://cliwck5sdiyko" path="res://clickables/clickable.gd" id="1_qqosf"]
+
+[resource]
+script = ExtResource("1_qqosf")
+metadata/_custom_type_script = "uid://cliwck5sdiyko"

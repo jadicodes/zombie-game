@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://ntsqsp5dgo0t"]
+
+[ext_resource type="Script" uid="uid://bqg846qbgtd2n" path="res://clickables/clickable_body.gd" id="1_t20p4"]
+
+[node name="ClickableBody" type="TextureButton"]
+script = ExtResource("1_t20p4")
