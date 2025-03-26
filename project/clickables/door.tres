@@ -4,4 +4,6 @@
 
 [resource]
 script = ExtResource("1_qqosf")
+number_of_clicks_to_fix = 3
+chance_of_appearing = 3
 metadata/_custom_type_script = "uid://cliwck5sdiyko"
